@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/40374df3-a707-4e8b-96b3-52656d364b46)
+
 ### Stock Performance Analysis Using the Golden Cross Strategy
 
 #### What is the Objective of this Project?
